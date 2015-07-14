@@ -9,7 +9,7 @@ public interface ApplicationConstants {
     static final String APP_SERVER_URL = "http://mathedia.com/fw/alert.php?shareRegId=true";
 
     // Google Project Number
-    static final String GOOGLE_PROJ_ID = "X";
+    static final String GOOGLE_PROJ_ID = "100960853477";
     // Message Key
     static final String MSG_KEY = "m";
 }
